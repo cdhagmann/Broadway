@@ -1,4 +1,44 @@
 body {
     background-color: white;
     text-align: center;
+    font-family: Helvetica;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 70px;
+}
+
+.newyork a {
+    color: white;
+    font-size: 18px;
+}
+
+div {
+    font-weight: bold
+}
+
+h2 {
+    font-size: 23px
+}
+
+p {
+    font-weight: normal;
+    font-size: 14px;
+}
+
+.newyork {
+    background-image: url("../images/the-flatiron-building.png");
+    color: white;
+}
+
+#footer  {
+    background-color: dimgray;
+    color: white;
+    font-size: 11px;
+    text-align: left;
+}
+
+a {
+    color: white;
 }
