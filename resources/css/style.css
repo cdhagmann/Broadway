@@ -1,4 +1,5 @@
 body {
-    background-image: url("../images/flatiron.jpg");
+    background-image: url("../images/flat-1.jpg");
     background-attachment: fixed;
+    text-align: center;
 }
